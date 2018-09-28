@@ -23,7 +23,7 @@
     - build-essential
     - git-core
     - python-setuptools
-    - python-software-properties
+    - software-properties-common
     - python-pip
     - aptitude
     - fail2ban
