@@ -1,5 +1,6 @@
-ansible-basic-server-setup
+ansible-basic-server-setup (For Ubuntu 18)
 =========
+
 
 A role to do basic setup of a debian based server. This role will install
 essential packages and do basic security.
